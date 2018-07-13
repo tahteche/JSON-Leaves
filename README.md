@@ -2,7 +2,7 @@
 Prints the Paths to the leaves of a JSON Tree
 
 ## Usage
-Fromm within the folder of this repo run the following command:
+From within the folder of this repo run the following command:
 ```
 cat test.json | jsonleaves
 ```
