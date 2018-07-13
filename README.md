@@ -1,10 +1,10 @@
 # JSON-Leaves
-Prints the Paths to the leaves of a JSON Tree
+Prints the paths to the leaves of a JSON tree
 
 ## Usage
 From within the folder of this repo run the following command:
 ```
-cat test.json | jsonleaves
+cat path/to/test.json | jsonleaves
 ```
 
-Where `test.json` is the json file whose leaves' paths you want to print.
+Where `path/to/test.json` is the path to the file containiing the JSON whose leaves' paths you want to print.
