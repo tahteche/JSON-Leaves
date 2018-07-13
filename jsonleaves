@@ -1,5 +1,10 @@
 #! /usr/bin/python
 
+"""
+This script is used to return the path to all leaf nodes of a JSON tree
+Returns a JSON where each key = leaf node's path and value = leaf node's value.
+"""
+
 import json
 import sys
 
